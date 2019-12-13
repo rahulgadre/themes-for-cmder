@@ -16,6 +16,11 @@
 - Ayu Mirage
   ![Screenshot](/previews/ayu-mirage.png)
 
+## Material
+
+- Material
+  ![Screenshot](/previews/material.png)
+
 ## Install
 
 - Open your cmder
