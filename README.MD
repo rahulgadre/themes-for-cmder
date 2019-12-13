@@ -26,10 +26,12 @@
 - Cobalt
   ![Screenshot](/previews/cobalt.png)
 
+> I will update more themes.
+
 ## Install
 
 - Open your cmder
 - Click Win+Alt+P
 - Click in Import
-- Select the *.xml
+- Select the \*.xml
 - Save Settings
