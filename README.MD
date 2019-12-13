@@ -21,6 +21,11 @@
 - Material
   ![Screenshot](/previews/material.png)
 
+## Cobalt
+
+- Cobalt
+  ![Screenshot](/previews/cobalt.png)
+
 ## Install
 
 - Open your cmder
