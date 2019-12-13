@@ -31,5 +31,5 @@
 - Open your cmder
 - Click Win+Alt+P
 - Click in Import
-- Select the Dracula.xml
+- Select the *.xml
 - Save Settings
