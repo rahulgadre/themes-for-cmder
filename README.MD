@@ -3,9 +3,18 @@
 ## Gruvbox
 
 - Gruvbox Dark
-  ![Screenshot](previews/gruvbox-dark.PNG)
+  ![Screenshot](/previews/gruvbox-dark.png)
 - Gruvbox Light
-  ![Screenshot](previews/gruvbox-light.PNG)
+  ![Screenshot](/previews/gruvbox-light.png)
+
+## Ayu
+
+- Ayu Dark
+  ![Screenshot](/previews/ayu-dark.png)
+- Ayu Light
+  ![Screenshot](/previews/ayu-light.png)
+- Ayu Mirage
+  ![Screenshot](/previews/ayu-mirage.png)
 
 ## Install
 
